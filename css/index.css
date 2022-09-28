@@ -8,23 +8,21 @@ body {
 }
 
 img {
-  float: left;
+  float: right;
   width: 200px;
   height: 130px;
   padding: 10px;
+  margin-left:15px;
 }
 
 .group {
-  height: 135px;
+  float:left;
+  padding: 10px;
+  height: 200px;
   width: 400px;
 }
 
 p {
-  padding: 10px;
-}
-
-div{
-  float: left;
   padding: 10px;
 }
 
