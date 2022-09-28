@@ -8,3 +8,5 @@ This project will host all the projects of task 2 on Version Control Systems of 
 1. Copy the template bloc and edit it with your group data.
 2. After that, persist your changes.
 3. Check that your changes are updated.
+
+You can view result changes via https://vicentvendrell.github.io/UF4Task2/
