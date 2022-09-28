@@ -18,8 +18,14 @@ img {
 .group {
   float:left;
   padding: 10px;
-  height: 3l00px;
+  height: 300px;
   width: 400px;
+  border-style:ridge;
+  border-color:grey;
+}
+
+.group h3{
+  height: 80px;
 }
 
 p {
